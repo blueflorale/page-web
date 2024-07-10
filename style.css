@@ -1,0 +1,19 @@
+#global{
+    border: 1px;
+    background-color: blue;
+    height: 1000px;
+}
+#header{
+    border: 1px;
+    background-color: yellow;
+    height: 90px;
+    margin: 5px;
+    padding: 5PX;  
+}
+#contenu{ 
+    border: 1px;
+    background-color: yellow;
+    height: 900px;
+    margin: 5px;
+    padding: 5PX;
+}
